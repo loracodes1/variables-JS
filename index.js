@@ -22,3 +22,9 @@ let cat ='Rose'
 console.log(cat)
 cat = "Ted"
 console.log(cat)
+const food ='cookie'
+console.log(food)
+
+
+
+
