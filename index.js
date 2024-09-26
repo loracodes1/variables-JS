@@ -12,3 +12,7 @@ typeof undefined
 console.log(typeof undefined)
 typeof null
 console.log(typeof null)
+1 === 1
+console.log(1 === 1)
+1===2
+console.log(1 === 2)
