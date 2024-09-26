@@ -8,3 +8,5 @@ typeof false
 console.log(typeof false)
 typeof true 
 console.log(typeof true )
+typeof undefined
+console.log(typeof undefined)
