@@ -10,3 +10,5 @@ typeof true
 console.log(typeof true )
 typeof undefined
 console.log(typeof undefined)
+typeof null
+console.log(typeof null)
