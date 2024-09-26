@@ -16,3 +16,8 @@ console.log(typeof null)
 console.log(1 === 1)
 1===2
 console.log(1 === 2)
+undefined===null
+console.log(undefined===null)
+let cat ='Rose'
+console.log(cat)
+
