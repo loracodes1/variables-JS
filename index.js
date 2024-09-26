@@ -4,3 +4,7 @@ typeof "Florence"
 console.log(typeof "Florence")
 typeof "cat's"
 console.log (typeof "cat's")
+typeof false
+console.log(typeof false)
+typeof true 
+console.log(typeof true )
