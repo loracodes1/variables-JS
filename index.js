@@ -20,4 +20,5 @@ undefined===null
 console.log(undefined===null)
 let cat ='Rose'
 console.log(cat)
-
+cat = "Ted"
+console.log(cat)
